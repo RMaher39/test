@@ -1,0 +1,2 @@
+TerminalType,CardEnabled,MeezaDigital,mVisa,UPGMerchantID,MerchantAcquiringID,TerminalAcquiringID,BranchCode,DigitalTerminalQR,TerminalName,UserFullName,UserMobileNumber,UserEmail,NotificationMethod,UserNameType,TerminalSerial,TemplateName,AppVersionNo,WT_Domain
+2,FALSE,TRUE,TRUE,13478622053,,,,,BulkQR,redamisa2,1276543288,test@test.com,4,2,,,,
